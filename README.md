@@ -1,5 +1,13 @@
 # Choro source separation - Rendu de projet long
 
+## aupyo 
+
+Si vous tombez sur ce répo par hasard (ou que vous travaillez dessus en stage ;) ) [aupio](github.com/Etienne-bdt/aupyo) pourrait vous intéresser !
+Celui-ci comprendra les quelques fonctions pratiques de ce projet et peut être d'autre en fonction du temps libre que j'ai pour travailler dessus.
+
+*Vous pouvez aussi contribuer dessus, on avance plus vite à plusieurs !*
+
+
 ## Introduction
 
 Ceci est le ReadMe pour notre projet long sur la musique choro. 
